@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/forms">
+<file>onlinegameid.ui</file>
+<file>onlinegamewaiting.ui</file>
+<file>gameover.ui</file>
+</qresource>
+</RCC>
